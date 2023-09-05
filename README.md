@@ -1,4 +1,4 @@
-[<h2 align="center">Vinícius Miranda de Araujo</h2>
+<h2 align="center">Pedro Henrique de Magalhães Honorato</h2>
 
 - 💡 Estou no 3° período de Ciência da Computação pela PUC Minas.
 - 📜 Atualmente aprendendo C e C++.
