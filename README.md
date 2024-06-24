@@ -2,7 +2,6 @@
 <h2 align="center">Pedro Henrique de Magalhães Honorato</h2>
 
 - 💡 Estou no 3° período de Ciência da Computação pela PUC Minas.
-- 📜 Atualmente aprendendo C e C++.
 - 🔍 Toda ajuda sobre melhoramento de códigos e interfaces é bem-vinda!
 
 ##
