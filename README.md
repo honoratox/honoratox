@@ -1,7 +1,7 @@
 
 <h2 align="center">Pedro Henrique de Magalhães Honorato</h2>
 
-- 💡 Estou no 3° período de Ciência da Computação pela PUC Minas.
+- 💡 Estou no 4° período de Ciência da Computação.
 - 🔍 Toda ajuda sobre melhoramento de códigos e interfaces é bem-vinda!
 
 ##
