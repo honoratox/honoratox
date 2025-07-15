@@ -20,7 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"           height="30" width="42" alt="html5 logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"             height="30" width="42" alt="css3 logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"             height="30" width="42" alt="Java Logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"             height="30" width="42" alt="Java Logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"             height="30" width="42" alt="Python Logo"  /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"             height="30" width="42" alt="Python Logo"  /> 
 </div>
